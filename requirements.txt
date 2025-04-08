@@ -1,0 +1,5 @@
+requests
+playwright
+urllib3
+opencv-contrib-python
+ultralytics
