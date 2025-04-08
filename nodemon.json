@@ -1,0 +1,3 @@
+{
+    "ignore": ["compliance_report/*", "screenshots/*"]
+}
